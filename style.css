@@ -5,13 +5,14 @@ html {
 body {
     margin:0;
     background-image:url("img/fondonavideño.jpg");
+    
 }
 
 h1{
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
-    background-color: #A31F2C;
+    background-color: rgb(200, 95, 89);
     color:white
     
 }
